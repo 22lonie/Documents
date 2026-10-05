@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Instagram
+Exec=/opt/brave-bin/brave --app=https://www.instagram.com --profile-directory=Default
+Icon=brave-akpamiohjfcnimfljfndmaldlcfphjmp-Default
+StartupWMClass=brave-www.instagram.com__-Default
+StartupNotify=true

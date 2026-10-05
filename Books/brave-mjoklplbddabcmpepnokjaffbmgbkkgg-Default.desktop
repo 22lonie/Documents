@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=GitHub
+Exec=/opt/brave-bin/brave --app=https://github.com --profile-directory=Default
+Icon=brave-mjoklplbddabcmpepnokjaffbmgbkkgg-Default
+StartupWMClass=brave-github.com__-Default
+StartupNotify=true

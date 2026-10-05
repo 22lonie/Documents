@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Drive
+Exec=/opt/brave-bin/brave --app=https://drive.google.com --profile-directory=Default
+Icon=drive
+StartupWMClass=brave-drive.google.com__-Default
+StartupNotify=true
