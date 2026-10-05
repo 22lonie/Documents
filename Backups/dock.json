@@ -1,0 +1,40 @@
+{
+    "dock": {
+        "enabled": true,
+        "autohide": true,
+        "iconSize": 28,
+        "spacing": 2,
+        "marginBottom": 8,
+        "reserveSpace": false,
+        "hideDelay": 500
+    },
+    "pill": {
+        "radius": 16,
+        "padding": 8,
+        "animationDuration": 350
+    },
+    "border": {
+        "width": 2,
+        "colorTop": "",
+        "colorBottom": ""
+    },
+    "opacity": {
+        "normal": 0.7
+    },
+    "apps": {
+        "pinned": [
+            "org.gnome.Nautilus",
+            "brave-browser",
+            "com.super_productivity.SuperProductivity",
+            "code",
+            "brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default",
+            "brave-agimnkijcaahngcdmfeangaknmldooml-Default",
+            "org.gnome.Rhythmbox3",
+            "org.gnome.TextEditor",
+            "org.kde.okular",
+            "libreoffice-startcenter",
+            "kitty",
+            "brave-olgcemggcklkcldackdmmiplipfmhemh-Default"
+        ]
+    }
+}
