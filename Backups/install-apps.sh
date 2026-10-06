@@ -26,6 +26,7 @@ echo "==> Installing AUR packages..."
 yay -S --needed \
   zapzap \
   superproductivity \
+  nmgui-bin\
   brave-bin \
   visual-studio-code-bin\
   spotify
