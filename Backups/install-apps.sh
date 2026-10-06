@@ -14,8 +14,11 @@ sudo pacman -S --needed --noconfirm \
   vlc-plugins-all \
   thunderbird \
   gimp \
+  nano\
   nmap \
   openssh \
+  ttf-jetbrains-mono\
+  ttf-jetbrains-mono-nerd\
   yt-dlp
 
 echo "==> Installing AUR packages..."
@@ -23,6 +26,7 @@ yay -S --needed \
   zapzap \
   superproductivity \
   brave-bin \
-  visual-studio-code-bin
+  visual-studio-code-bin\
+  spotify
 
 echo "==> Done!"
