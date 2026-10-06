@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Terminal=false
-Type=Application
-Name=YouTube Music
-Exec=/opt/brave-bin/brave --app=https://music.youtube.com --profile-directory=Default
-Icon=brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default
-StartupWMClass=brave-music.youtube.com__-Default
-StartupNotify=true
