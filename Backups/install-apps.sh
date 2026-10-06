@@ -17,6 +17,7 @@ sudo pacman -S --needed --noconfirm \
   nano\
   nmap \
   openssh \
+  rhythmbox\
   ttf-jetbrains-mono\
   ttf-jetbrains-mono-nerd\
   yt-dlp
