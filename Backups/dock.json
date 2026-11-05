@@ -35,8 +35,7 @@
             "org.kde.okular",
             "libreoffice-startcenter",
             "kitty",
-            "com.rtosta.zapzap",
-            "org.mozilla.Thunderbird"
+            "com.rtosta.zapzap"
         ]
     }
 }
