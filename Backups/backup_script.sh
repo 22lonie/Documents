@@ -23,15 +23,6 @@ run_step() {
 }
 
 # ------------------------------------------------------------
-# Remove Firefox and its data
-# ------------------------------------------------------------
-
-run_step "Remove Firefox" sudo pacman -Rns --noconfirm firefox
-
-run_step "Remove Firefox profile data" rm -rf "$HOME/.mozilla/firefox"
-run_step "Remove Firefox cache" rm -rf "$HOME/.cache/mozilla"
-
-# ------------------------------------------------------------
 # Rofi border radius
 # ------------------------------------------------------------
 
