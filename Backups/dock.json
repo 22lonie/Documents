@@ -1,10 +1,10 @@
 {
     "dock": {
         "enabled": true,
-        "autohide": true,
-        "iconSize": 28,
+        "autohide": false,
+        "iconSize": 26,
         "spacing": 2,
-        "marginBottom": 8,
+        "marginBottom": 7,
         "reserveSpace": false,
         "hideDelay": 500
     },
@@ -19,22 +19,24 @@
         "colorBottom": ""
     },
     "opacity": {
-        "normal": 0.7
+        "normal": 0.8
     },
     "apps": {
         "pinned": [
             "org.gnome.Nautilus",
+            "superproductivity",
             "brave-browser",
-            "com.super_productivity.SuperProductivity",
-            "code",
-            "brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default",
             "brave-agimnkijcaahngcdmfeangaknmldooml-Default",
+            "brave-cinhimbnkkaeohfgghhklpknlkffjgod-Default",
+            "brave-neeninggecblapnjmbnffipdofnpadcc-Default",
+            "code",
             "org.gnome.Rhythmbox3",
             "org.gnome.TextEditor",
             "org.kde.okular",
             "libreoffice-startcenter",
             "kitty",
-            "brave-olgcemggcklkcldackdmmiplipfmhemh-Default"
+            "com.rtosta.zapzap",
+            "org.mozilla.Thunderbird"
         ]
     }
 }
